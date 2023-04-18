@@ -13,3 +13,7 @@
 | tatoeba_mt| machine translation | https://huggingface.co/datasets/Helsinki-NLP/tatoeba_mt/
 | wikipedia | language modeling | https://huggingface.co/datasets/wikipedia |
 | leipzig tatar corpus | statistics | https://cls.corpora.uni-leipzig.de/en/tat_web_2018 |
+
+
+## Papers
+* [How Good Are GPT Models at Machine Translation?](https://arxiv.org/pdf/2302.09210.pdf)
